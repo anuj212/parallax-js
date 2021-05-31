@@ -1,6 +1,8 @@
 # parallax-js
 True parallax scrolling, not just fixed backgrounds. Done simply with (lightweight) vanilla JavaScript.
 
+### [Check out a working demo!](https://calvinbonner.com/demos/parallax-scroll/)
+
 # How to Use
 parallax-js uses HTML, CSS, and JavaScript togeather to create the desired effect. Here's how to set up each:
 
